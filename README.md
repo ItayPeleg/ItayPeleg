@@ -18,12 +18,12 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🧰 &nbsp;
-  ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=blue)
-  ![JavasScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-%F0%9F%90%8D%20Python-333333?style=flat&logo=python&logoColor=3776AB)
+  ![JavasScript](https://img.shields.io/badge/-%F0%9F%8C%90%20JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
-  ![mysql](https://img.shields.io/badge/mysql-yellow?style=for-the-badge&logo=mysql&logoColor=white)
+  ![mysql](https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
 - ⚙️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
@@ -32,9 +32,9 @@
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
   ![UiPath](https://img.shields.io/badge/-%F0%9F%A4%96%20UiPath-333333?style=flat&logo=uipath&logoColor=00D1B2)
-  ![Microsoft PowerApps](https://img.shields.io/badge/-%E2%9A%A1%20Microsoft%20PowerApps-008272?style=for-the-badge)
-  ![Wortkato](https://img.shields.io/badge/-%F0%9F%94%A7%20Workato-FF4500?style=for-the-badge)
-  ![Torq](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20Torq-006400?style=for-the-badge)
+  ![Microsoft PowerApps](https://img.shields.io/badge/-%F0%9F%92%A1%20Microsoft_PowerApps-333333?style=flat&logo=microsoft-powerapps&logoColor=008272)
+  ![Wortkato](https://img.shields.io/badge/-%F0%9F%94%A7%20Workato-333333?style=flat&logo=workato&logoColor=FF6633)
+  ![Torq](https://img.shields.io/badge/-%F0%9F%8C%80%20Torq-333333?style=flat&logo=torq&logoColor=FF5733)
 
 <p>
   <div class="github-stats">
