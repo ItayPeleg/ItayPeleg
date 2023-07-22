@@ -31,13 +31,9 @@
 
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
-
-  ![UiPath](https://img.shields.io/badge/-%F0%9F%A4%96%20UiPath-00D1B2?style=for-the-badge)
-
+  ![UiPath](https://img.shields.io/badge/-%F0%9F%A4%96%20UiPath-333333?style=flat&logo=uipath&logoColor=00D1B2)
   ![Microsoft PowerApps](https://img.shields.io/badge/-%E2%9A%A1%20Microsoft%20PowerApps-008272?style=for-the-badge)
-
   ![Wortkato](https://img.shields.io/badge/-%F0%9F%94%A7%20Workato-FF4500?style=for-the-badge)
-
   ![Torq](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20Torq-006400?style=for-the-badge)
 
 <p>
