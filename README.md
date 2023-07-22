@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align=left>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=200&height=50&lines=Hi+there+%F0%9F%91%8B" alt="Headline" />
     </div>
