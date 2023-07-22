@@ -29,6 +29,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 - 🔧 &nbsp;
+- ![PyCharm](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20PyCharm-333333?style=flat&logo=pycharm&logoColor=00BDBD)
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
   ![UiPath](https://img.shields.io/badge/-%F0%9F%A4%96%20UiPath-333333?style=flat&logo=uipath&logoColor=00D1B2)
   ![Microsoft PowerApps](https://img.shields.io/badge/-%F0%9F%92%A1%20Microsoft_PowerApps-333333?style=flat&logo=microsoft-powerapps&logoColor=008272)
