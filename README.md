@@ -42,7 +42,7 @@
   </div>
 </p>
 
-- Your are my [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ItayPeleg.visitor-badge)](https://github.com/ItayPeleg)<br>
+- You are my [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ItayPeleg.visitor-badge)](https://github.com/ItayPeleg)<br>
 
 
 ### 📝 Contact Me 
