@@ -16,25 +16,31 @@
 <hr />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
 - 🧰 &nbsp;
+  ![Java](https://img.shields.io/badge/-%E2%98%95%20Java-333333?style=flat&logo=java&logoColor=007396)
+  ![Spring](https://img.shields.io/badge/-%E2%98%95%20Spring_Framework-333333?style=flat&logo=spring&logoColor=6DB33F)
   ![Python](https://img.shields.io/badge/-%F0%9F%90%8D%20Python-333333?style=flat&logo=python&logoColor=3776AB)
-  ![JavasScript](https://img.shields.io/badge/-%F0%9F%8C%90%20JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
+  ![JavaScript](https://img.shields.io/badge/-%F0%9F%8C%90%20JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
-  ![mysql](https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
+  ![MySQL](https://img.shields.io/badge/-%F0%9F%97%84%EF%B8%8F%20MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
 
 - ⚙️ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 - 🔧 &nbsp;
+  ![IntelliJ IDEA](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=007396)
   ![PyCharm](https://img.shields.io/badge/-%E2%9A%99%EF%B8%8F%20PyCharm-333333?style=flat&logo=pycharm&logoColor=00BDBD)
   ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-333333?style=flat&logo=visual-studio&logoColor=5d2b90)
   ![UiPath](https://img.shields.io/badge/-%F0%9F%A4%96%20UiPath-333333?style=flat&logo=uipath&logoColor=00D1B2)
   ![Microsoft PowerApps](https://img.shields.io/badge/-%F0%9F%92%A1%20Microsoft_PowerApps-333333?style=flat&logo=microsoft-powerapps&logoColor=008272)
-  ![Wortkato](https://img.shields.io/badge/-%F0%9F%94%A7%20Workato-333333?style=flat&logo=workato&logoColor=FF6633)
+  ![Workato](https://img.shields.io/badge/-%F0%9F%94%A7%20Workato-333333?style=flat&logo=workato&logoColor=FF6633)
   ![Torq](https://img.shields.io/badge/-%F0%9F%8C%80%20Torq-333333?style=flat&logo=torq&logoColor=FF5733)
+
 
 <p>
   <div class="github-stats">
